@@ -1,7 +1,14 @@
-# learn-shell
+learn-shell
+In this repo we will keep the shell scripting files.
 
-We will have shell scripting files
-
-Shell Topics
-------------
+Shell Topics:
 Printing
+Variables (V)
+Functions (F)
+Conditions (C)
+Loops (L)
+Exit Status
+Inputs
+Quotes
+Redirectors
+SED Editor
