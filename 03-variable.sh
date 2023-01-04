@@ -15,3 +15,8 @@ echo ADD - $ADD
 
 ## Variable from command line
 echo b - $b
+
+
+# Read-write  ---> readonly Variables
+# Scalar  ----> Arrays Variables
+# Local ----> Environment variables
