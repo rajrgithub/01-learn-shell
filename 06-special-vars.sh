@@ -26,4 +26,8 @@ example $*
 
 # bash 06-special-vars.sh
 
-# bash 06-special-vars.sh abc xyz
+# bash 06-special-vars.sh 1234 redy
+
+# bash 06-special-vars.sh 1234 ""  redy
+
+# bash 06-special-vars.sh 1234 "  " redy
