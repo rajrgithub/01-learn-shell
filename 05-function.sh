@@ -10,3 +10,25 @@ example() {
 
 ## Call a function
 example
+
+
+# Function Declare
+example2() {
+  echo I am a example function
+  echo a - $a
+  b=20
+}
+
+## Call a function
+a=10
+example2
+echo b - $b
+
+example1() {
+  echo example1 - abc
+  return 2
+  echo example1 - xyz
+}
+
+example1
+echo example1 return status - $?
